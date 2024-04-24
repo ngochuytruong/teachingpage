@@ -1,9 +1,10 @@
 ---
 title: Design Draft
-author: Tao He
+author: Tao Hee
 date: 2022-02-06
 category: Jekyll
 layout: post
+cover: https://ngochuytruong.github.io/assets/jekyll-gitbook/dinosaur.gif
 ---
 
-This is an draft page.
+This is an draft pageasdfasdfasdf.
