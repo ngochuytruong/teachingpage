@@ -9,7 +9,7 @@ layout: post
 A wide tables needs to be wrapped into a `div` with class `table-wrapper`
 to make sure it displayed as expected on mobile devices. For example,
 
-```markdown
+```markdown 
 <div class="table-wrapper" markdown="block">
 
 |title1|title2|title3|title4|title5|title6|title7|title8|
